@@ -15,5 +15,5 @@ the Windows 10 UI design language.
 ## Installation
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/made-with-websim/10css@main/10.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/made-with-websim/10scss@main/10.css">
 
